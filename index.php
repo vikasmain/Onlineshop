@@ -7,7 +7,7 @@ include("functions/functions.php");
 <html>
 <head>
 <meta charset="utf-8">
-<title>Dhoni and sachin Shop</title>
+<title>Cricket Items Shop</title>
 <link rel="stylesheet" href="styles/style.css" media="all"/>
 </head>
 <body>
